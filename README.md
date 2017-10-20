@@ -15,3 +15,4 @@ around the world - don’t hesitate to reach out us via the social links below!
   
 ## Captains Blogs/Twitter
   - **Bret Fisher** - [@BretFisher](https://twitter.com/bretfisher) - [Blog](https://www.bretfisher.com)
+  - **Antonis Kalipetis** - [@akalipetis](https://twitter.com/akalipetis) - [Blog](https://www.akalipetis.com)
