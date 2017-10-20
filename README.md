@@ -12,8 +12,10 @@ around the world - don’t hesitate to reach out us via the social links below!
   - [**Node.js Good Defaults**](https://github.com/BretFisher/node-docker-good-defaults) - Default sample 
   project for Node.js using Docker, Compose, and many best pracices for local development, CI, and 
   production deploy
+  - [**Orbiter**](https://github.com/gianarb/orbiter) - Easy to setup Docker Swarm autoscaler. It is a tiny golang application that you can deploy close your monitoring stack to handler autoscaling event.
   
 ## Captains Blogs/Twitter
   - **Antonis Kalipetis** - [@akalipetis](https://twitter.com/akalipetis) - [Blog](https://www.akalipetis.com)
   - **Bret Fisher** - [@BretFisher](https://twitter.com/bretfisher) - [Blog](https://www.bretfisher.com)
   - **Nils De Moor** - [@ndemoor](https://twitter.com/ndemoor) - [Blog](https://cntnr.io)
+  - **Gianluca Arbezzano** - [@gianarb](https://twitter.com/gianarb) - [Blog](https://gianarb.it)
