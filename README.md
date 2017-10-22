@@ -13,6 +13,7 @@ around the world - don’t hesitate to reach out us via the social links below!
   project for Node.js using Docker, Compose, and many best pracices for local development, CI, and 
   production deploy
   - [**Orbiter**](https://github.com/gianarb/orbiter) - Easy to setup Docker Swarm autoscaler. It is a tiny golang application that you can deploy close your monitoring stack to handler autoscaling event.
+  - [**Docker Mastery Video Course on Udemy**](https://bretfisher.com/dm) - (paid course) 8+ hours of Docker traning on Docker cli, Compose, and Swarm
   
 ## Captains Blogs/Twitter
   - **Antonis Kalipetis** - [@akalipetis](https://twitter.com/akalipetis) - [Blog](https://www.akalipetis.com)
