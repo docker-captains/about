@@ -17,6 +17,7 @@ around the world - don’t hesitate to reach out us via the social links below!
   
 ## Captains Blogs/Twitter
   - **Antonis Kalipetis** - [@akalipetis](https://twitter.com/akalipetis) - [Blog](https://www.akalipetis.com)
-  - **Bret Fisher** - [@BretFisher](https://twitter.com/bretfisher) - [Blog](https://www.bretfisher.com)
-  - **Nils De Moor** - [@ndemoor](https://twitter.com/ndemoor) - [Blog](https://cntnr.io)
+  - **Bret Fisher** - [@BretFisher](https://twitter.com/bretfisher) - [Blog](https://www.bretfisher.com) - [YouTube](https://www.youtube.com/c/BretFisherITPro) - [Facebook](https://www.facebook.com/bretfisher.devops)
   - **Gianluca Arbezzano** - [@gianarb](https://twitter.com/gianarb) - [Blog](https://gianarb.it)
+  - **Nils De Moor** - [@ndemoor](https://twitter.com/ndemoor) - [Blog](https://cntnr.io)
+
