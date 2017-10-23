@@ -25,6 +25,7 @@ around the world - don’t hesitate to reach out us via the social links below!
   - **Bret Fisher** - [@BretFisher](https://twitter.com/bretfisher) - [Blog](https://www.bretfisher.com) - [YouTube](https://www.youtube.com/c/BretFisherITPro) - [Facebook](https://www.facebook.com/bretfisher.devops)
   - **Gianluca Arbezzano** - [@gianarb](https://twitter.com/gianarb) - [Blog](https://gianarb.it)
   - **John Lees-Miller** - [@jdleesmiller](https://twitter.com/jdleesmiller) - [Blog](http://jdlm.info/)
+  - **Laura Frank** - [@rhein_wein](https://twitter.com/rhein_wein) - [Blog](https://blog.codeship.com/author/laurafrank/)
   - **Nils De Moor** - [@ndemoor](https://twitter.com/ndemoor) - [Blog](https://cntnr.io)
   - **Nigel Poulton** - [@nigelpoulton](https://twitter.com/nigelpoulton) - [Blog](http://nigelpoulton.com)
   - **Phil Estes** - [@estesp](https://twitter.com/estesp) - [Blog](https://integratedcode.us)
