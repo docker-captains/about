@@ -17,6 +17,8 @@ around the world - don’t hesitate to reach out us via the social links below!
   - [**Docker Learning Path video courses on Pluralsight**](https://www.pluralsight.com/paths/docker) - (paid courses) Over 15 hours of Docker and Kubernetes training.
   - [**Docker Deep Dive book**](https://www.amazon.com/Docker-Deep-Dive-Nigel-Poulton/dp/1521822808/ref=sr_1_1?ie=UTF8&qid=1508709727&sr=8-1&keywords=docker+deep+dive) - (paid book) Paperback and e-book constantly updated to keep it relevant.
   - [**The Kubernetes Book**](https://www.amazon.com/Kubernetes-Book-Nigel-Poulton/dp/1521823634/ref=sr_1_3?s=books&ie=UTF8&qid=1508709840&sr=1-3&keywords=kubernetes) - (paid book) Paperback and e-book constantly updated to keep it relevant.
+  - [**Manifest Tool**](https://github.com/estesp/manifest-tool) - Tool for inspecting and creating "manifest lists" for multi-platform image capabilities in Docker v2.x registries.
+  - [**Bucketbench**](https://github.com/estesp/bucketbench) - Performance/load testing tool using container lifecycle operations against popular container runtime components (containerd, runc, Docker/Moby engine)
 
 ## Captains Blogs/Twitter
   - **Antonis Kalipetis** - [@akalipetis](https://twitter.com/akalipetis) - [Blog](https://www.akalipetis.com)
@@ -25,4 +27,5 @@ around the world - don’t hesitate to reach out us via the social links below!
   - **John Lees-Miller** - [@jdleesmiller](https://twitter.com/jdleesmiller) - [Blog](http://jdlm.info/)
   - **Nils De Moor** - [@ndemoor](https://twitter.com/ndemoor) - [Blog](https://cntnr.io)
   - **Nigel Poulton** - [@nigelpoulton](https://twitter.com/nigelpoulton) - [Blog](http://nigelpoulton.com)
+  - **Phil Estes** - [@estesp](https://twitter.com/estesp) - [Blog](https://integratedcode.us)
   - **Philipp Garbe** - [@pgarbe](https://twitter.com/pgarbe) - [Blog](http://garbe.io)
