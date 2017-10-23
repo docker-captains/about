@@ -24,3 +24,4 @@ around the world - don’t hesitate to reach out us via the social links below!
   - **Gianluca Arbezzano** - [@gianarb](https://twitter.com/gianarb) - [Blog](https://gianarb.it)
   - **Nils De Moor** - [@ndemoor](https://twitter.com/ndemoor) - [Blog](https://cntnr.io)
   - **Nigel Poulton** - [@nigelpoulton](https://twitter.com/nigelpoulton) - [Blog](http://nigelpoulton.com)
+  - **Philipp Garbe** - [@pgarbe](https://twitter.com/pgarbe) - [Blog](http://garbe.io)
