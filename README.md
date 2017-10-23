@@ -26,3 +26,4 @@ around the world - don’t hesitate to reach out us via the social links below!
   - **Nils De Moor** - [@ndemoor](https://twitter.com/ndemoor) - [Blog](https://cntnr.io)
   - **Nigel Poulton** - [@nigelpoulton](https://twitter.com/nigelpoulton) - [Blog](http://nigelpoulton.com)
   - **Philipp Garbe** - [@pgarbe](https://twitter.com/pgarbe) - [Blog](http://garbe.io)
+  - **John Zaccone** - [@JohnZaccone](https://twitter.com/JohnZaccone) - [Blog](http://johnzaccone.io)
