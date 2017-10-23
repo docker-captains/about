@@ -22,6 +22,7 @@ around the world - don’t hesitate to reach out us via the social links below!
   - **Antonis Kalipetis** - [@akalipetis](https://twitter.com/akalipetis) - [Blog](https://www.akalipetis.com)
   - **Bret Fisher** - [@BretFisher](https://twitter.com/bretfisher) - [Blog](https://www.bretfisher.com) - [YouTube](https://www.youtube.com/c/BretFisherITPro) - [Facebook](https://www.facebook.com/bretfisher.devops)
   - **Gianluca Arbezzano** - [@gianarb](https://twitter.com/gianarb) - [Blog](https://gianarb.it)
+  - **John Lees-Miller** - [@jdleesmiller](https://twitter.com/jdleesmiller) - [Blog](http://jdlm.info/)
   - **Nils De Moor** - [@ndemoor](https://twitter.com/ndemoor) - [Blog](https://cntnr.io)
   - **Nigel Poulton** - [@nigelpoulton](https://twitter.com/nigelpoulton) - [Blog](http://nigelpoulton.com)
   - **Philipp Garbe** - [@pgarbe](https://twitter.com/pgarbe) - [Blog](http://garbe.io)
