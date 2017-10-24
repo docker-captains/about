@@ -13,6 +13,7 @@ around the world - don’t hesitate to reach out us via the social links below!
   project for Node.js using Docker, Compose, and many best pracices for local development, CI, and
   production deploy
   - [**Orbiter**](https://github.com/gianarb/orbiter) - Easy to setup Docker Swarm autoscaler. It is a tiny golang application that you can deploy close your monitoring stack to handler autoscaling event.
+  - [**Dive Into Docker Video Course**](https://diveintodocker.com) - (paid course) Self paced online course to learn and apply the Docker / Docker Compose fundamentals.
   - [**Docker Mastery Video Course on Udemy**](https://bretfisher.com/dm) - (paid course) 8+ hours of Docker traning on Docker cli, Compose, and Swarm
   - [**Docker Learning Path video courses on Pluralsight**](https://www.pluralsight.com/paths/docker) - (paid courses) Over 15 hours of Docker and Kubernetes training.
   - [**Docker Deep Dive book**](https://www.amazon.com/Docker-Deep-Dive-Nigel-Poulton/dp/1521822808/ref=sr_1_1?ie=UTF8&qid=1508709727&sr=8-1&keywords=docker+deep+dive) - (paid book) Paperback and e-book constantly updated to keep it relevant.
@@ -27,6 +28,7 @@ around the world - don’t hesitate to reach out us via the social links below!
   - **John Lees-Miller** - [@jdleesmiller](https://twitter.com/jdleesmiller) - [Blog](http://jdlm.info/)
   - **John Zaccone** - [@JohnZaccone](https://twitter.com/JohnZaccone) - [Blog](http://johnzaccone.io)
   - **Laura Frank** - [@rhein_wein](https://twitter.com/rhein_wein) - [Blog](https://blog.codeship.com/author/laurafrank/)
+  - **Nick Janetakis** - [@nickjanetakis](https://twitter.com/nickjanetakis) - [Blog](https://nickjanetakis.com) - [YouTube](https://www.youtube.com/c/nickjanetakis)
   - **Nils De Moor** - [@ndemoor](https://twitter.com/ndemoor) - [Blog](https://cntnr.io)
   - **Nigel Poulton** - [@nigelpoulton](https://twitter.com/nigelpoulton) - [Blog](http://nigelpoulton.com)
   - **Phil Estes** - [@estesp](https://twitter.com/estesp) - [Blog](https://integratedcode.us)
