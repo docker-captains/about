@@ -20,6 +20,7 @@ around the world - don’t hesitate to reach out us via the social links below!
   - [**The Kubernetes Book**](https://www.amazon.com/Kubernetes-Book-Nigel-Poulton/dp/1521823634/ref=sr_1_3?s=books&ie=UTF8&qid=1508709840&sr=1-3&keywords=kubernetes) - (paid book) Paperback and e-book constantly updated to keep it relevant.
   - [**Manifest Tool**](https://github.com/estesp/manifest-tool) - Tool for inspecting and creating "manifest lists" for multi-platform image capabilities in Docker v2.x registries.
   - [**Bucketbench**](https://github.com/estesp/bucketbench) - Performance/load testing tool using container lifecycle operations against popular container runtime components (containerd, runc, Docker/Moby engine)
+  - [**Container Network Performance Tool**](https://github.com/solarwinds/containers/tree/master/cnpt) - Visibility of container network flows across Kubernetes and Docker Swarm nodes.
 
 ## Captains Blogs/Twitter
   - **Antonis Kalipetis** - [@akalipetis](https://twitter.com/akalipetis) - [Blog](https://www.akalipetis.com)
@@ -34,3 +35,4 @@ around the world - don’t hesitate to reach out us via the social links below!
   - **Phil Estes** - [@estesp](https://twitter.com/estesp) - [Blog](https://integratedcode.us)
   - **Philipp Garbe** - [@pgarbe](https://twitter.com/pgarbe) - [Blog](http://garbe.io)
   - **Shawn Bower** - [@drizzt51](https://twitter.com/drizzt51) - [Blog](https://medium.com/@shawn.bower)
+  - **Lee Calcote** - [@lcalcote](https://twitter.com/lcalcote) - [Blog](http://gingergeek.com) - [YouTube](https://www.youtube.com/c/leecalcote)
