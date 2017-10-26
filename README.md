@@ -21,6 +21,7 @@ around the world - don’t hesitate to reach out us via the social links below!
   - [**Manifest Tool**](https://github.com/estesp/manifest-tool) - Tool for inspecting and creating "manifest lists" for multi-platform image capabilities in Docker v2.x registries.
   - [**Bucketbench**](https://github.com/estesp/bucketbench) - Performance/load testing tool using container lifecycle operations against popular container runtime components (containerd, runc, Docker/Moby engine)
   - [**Container Network Performance Tool**](https://github.com/solarwinds/containers/tree/master/cnpt) - Visibility of container network flows across Kubernetes and Docker Swarm nodes.
+  - [**La plateforme Docker**](https://www.udemy.com/la-plateforme-docker/) - (cours payant) Des vidéos, des articles, des exercices: depuis les bases de Docker jusqu'au déploiement sur Swarm
 
 ## Captains Blogs/Twitter
   - **Antonis Kalipetis** - [@akalipetis](https://twitter.com/akalipetis) - [Blog](https://www.akalipetis.com)
@@ -29,10 +30,11 @@ around the world - don’t hesitate to reach out us via the social links below!
   - **John Lees-Miller** - [@jdleesmiller](https://twitter.com/jdleesmiller) - [Blog](http://jdlm.info/)
   - **John Zaccone** - [@JohnZaccone](https://twitter.com/JohnZaccone) - [Blog](http://johnzaccone.io)
   - **Laura Frank** - [@rhein_wein](https://twitter.com/rhein_wein) - [Blog](https://blog.codeship.com/author/laurafrank/)
+  - **Lee Calcote** - [@lcalcote](https://twitter.com/lcalcote) - [Blog](http://gingergeek.com) - [YouTube](https://www.youtube.com/c/leecalcote)
+  - **Luc Juggery** - [@lucjuggery](https://twitter.com/lucjuggery) - [Blog](medium.com/lucjuggery)
   - **Nick Janetakis** - [@nickjanetakis](https://twitter.com/nickjanetakis) - [Blog](https://nickjanetakis.com) - [YouTube](https://www.youtube.com/c/nickjanetakis)
   - **Nils De Moor** - [@ndemoor](https://twitter.com/ndemoor) - [Blog](https://cntnr.io)
   - **Nigel Poulton** - [@nigelpoulton](https://twitter.com/nigelpoulton) - [Blog](http://nigelpoulton.com)
   - **Phil Estes** - [@estesp](https://twitter.com/estesp) - [Blog](https://integratedcode.us)
   - **Philipp Garbe** - [@pgarbe](https://twitter.com/pgarbe) - [Blog](http://garbe.io)
   - **Shawn Bower** - [@drizzt51](https://twitter.com/drizzt51) - [Blog](https://medium.com/@shawn.bower)
-  - **Lee Calcote** - [@lcalcote](https://twitter.com/lcalcote) - [Blog](http://gingergeek.com) - [YouTube](https://www.youtube.com/c/leecalcote)
