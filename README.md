@@ -31,7 +31,7 @@ around the world - don’t hesitate to reach out us via the social links below!
   - **John Zaccone** - [@JohnZaccone](https://twitter.com/JohnZaccone) - [Blog](http://johnzaccone.io)
   - **Laura Frank** - [@rhein_wein](https://twitter.com/rhein_wein) - [Blog](https://blog.codeship.com/author/laurafrank/)
   - **Lee Calcote** - [@lcalcote](https://twitter.com/lcalcote) - [Blog](http://gingergeek.com) - [YouTube](https://www.youtube.com/c/leecalcote)
-  - **Luc Juggery** - [@lucjuggery](https://twitter.com/lucjuggery) - [Blog](medium.com/lucjuggery)
+  - **Luc Juggery** - [@lucjuggery](https://twitter.com/lucjuggery) - [Blog](https://medium.com/lucjuggery)
   - **Nick Janetakis** - [@nickjanetakis](https://twitter.com/nickjanetakis) - [Blog](https://nickjanetakis.com) - [YouTube](https://www.youtube.com/c/nickjanetakis)
   - **Nils De Moor** - [@ndemoor](https://twitter.com/ndemoor) - [Blog](https://cntnr.io)
   - **Nigel Poulton** - [@nigelpoulton](https://twitter.com/nigelpoulton) - [Blog](http://nigelpoulton.com)
