@@ -19,12 +19,17 @@ around the world - don’t hesitate to reach out us via the social links below!
  - [**Docker Prometheus Stack**](https://github.com/vegasbrianc/prometheus) - A docker-compose starter stack for monitoring with cAdvisor, Prometheus, Grafana, and Node-Exporter.
  - [**Manifest Tool**](https://github.com/estesp/manifest-tool) - Tool for inspecting and creating "manifest lists" for multi-platform image capabilities in Docker v2.x registries.
  - [**Node.js Good Defaults**](https://github.com/BretFisher/node-docker-good-defaults) - Default sample
-  project for Node.js using Docker, Compose, and many best practices for local development, CI, and
-  production deploy
+  project for Node.js using Docker, Compose, and many best practices for local development, CI, and production deploy
  - [**Orbiter**](https://github.com/gianarb/orbiter) - Easy to setup Docker Swarm autoscaler. It is a tiny golang application that you can deploy close your monitoring stack to handler autoscaling event.
+ - [**Dive Into Docker Video Course**](https://diveintodocker.com) - (paid course) Self-paced online course to learn and apply the Docker / Docker Compose fundamentals.
+ - [**Docker Mastery Video Course on Udemy**](https://bretfisher.com/dm) - (paid course) 8+ hours of Docker training on Docker cli, Compose, and Swarm
+ - [**Docker Learning Path video courses on Pluralsight**](https://www.pluralsight.com/paths/docker) - (paid courses) Over 15 hours of Docker and Kubernetes training.
+ - [**Docker Deep Dive book**](https://www.amazon.com/Docker-Deep-Dive-Nigel-Poulton/dp/1521822808/ref=sr_1_1?ie=UTF8&qid=1508709727&sr=8-1&keywords=docker+deep+dive) - (paid book) Paperback and e-book constantly updated to keep it relevant.
  - [**The Kubernetes Book**](https://www.amazon.com/Kubernetes-Book-Nigel-Poulton/dp/1521823634/ref=sr_1_3?s=books&ie=UTF8&qid=1508709840&sr=1-3&keywords=kubernetes) - (paid book) Paperback and e-book constantly updated to keep it relevant.
-
-
+ - [**Manifest Tool**](https://github.com/estesp/manifest-tool) - Tool for inspecting and creating "manifest lists" for multi-platform image capabilities in Docker v2.x registries.
+ - [**Bucketbench**](https://github.com/estesp/bucketbench) - Performance/load testing tool using container lifecycle operations against popular container runtime components (containerd, runc, Docker/Moby engine)
+ - [**Container Network Performance Tool**](https://github.com/solarwinds/containers/tree/master/cnpt) - Visibility of container network flows across Kubernetes and Docker Swarm nodes.
+ - [**La plateforme Docker**](https://www.udemy.com/la-plateforme-docker/) - (cours payant) Des vidéos, des articles, des exercices: depuis les bases de Docker jusqu'au déploiement sur Swarm
 
 ## Captains Blogs/Twitter
   - **Antonis Kalipetis** - [@akalipetis](https://twitter.com/akalipetis) - [Blog](https://www.akalipetis.com)
@@ -34,10 +39,11 @@ around the world - don’t hesitate to reach out us via the social links below!
   - **John Lees-Miller** - [@jdleesmiller](https://twitter.com/jdleesmiller) - [Blog](http://jdlm.info/)
   - **John Zaccone** - [@JohnZaccone](https://twitter.com/JohnZaccone) - [Blog](http://johnzaccone.io)
   - **Laura Frank** - [@rhein_wein](https://twitter.com/rhein_wein) - [Blog](https://blog.codeship.com/author/laurafrank/)
+  - **Lee Calcote** - [@lcalcote](https://twitter.com/lcalcote) - [Blog](http://gingergeek.com) - [YouTube](https://www.youtube.com/c/leecalcote)
+  - **Luc Juggery** - [@lucjuggery](https://twitter.com/lucjuggery) - [Blog](https://medium.com/lucjuggery)
   - **Nick Janetakis** - [@nickjanetakis](https://twitter.com/nickjanetakis) - [Blog](https://nickjanetakis.com) - [YouTube](https://www.youtube.com/c/nickjanetakis)
   - **Nils De Moor** - [@ndemoor](https://twitter.com/ndemoor) - [Blog](https://cntnr.io)
   - **Nigel Poulton** - [@nigelpoulton](https://twitter.com/nigelpoulton) - [Blog](http://nigelpoulton.com)
   - **Phil Estes** - [@estesp](https://twitter.com/estesp) - [Blog](https://integratedcode.us)
   - **Philipp Garbe** - [@pgarbe](https://twitter.com/pgarbe) - [Blog](http://garbe.io)
   - **Shawn Bower** - [@drizzt51](https://twitter.com/drizzt51) - [Blog](https://medium.com/@shawn.bower)
-  - **Lee Calcote** - [@lcalcote](https://twitter.com/lcalcote) - [Blog](http://gingergeek.com) - [YouTube](https://www.youtube.com/c/leecalcote)
