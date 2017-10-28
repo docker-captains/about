@@ -9,9 +9,9 @@ We are eager to bring our various fields of expertise to new audiences both offl
 around the world - don’t hesitate to reach out us via the social links below!
 
 ## Projects We Maintain
+
   - [**Node.js Good Defaults**](https://github.com/BretFisher/node-docker-good-defaults) - Default sample
-  project for Node.js using Docker, Compose, and many best practices for local development, CI, and
-  production deploy
+  project for Node.js using Docker, Compose, and many best practices for local development, CI, and production deploy
   - [**Orbiter**](https://github.com/gianarb/orbiter) - Easy to setup Docker Swarm autoscaler. It is a tiny golang application that you can deploy close your monitoring stack to handler autoscaling event.
   - [**Dive Into Docker Video Course**](https://diveintodocker.com) - (paid course) Self-paced online course to learn and apply the Docker / Docker Compose fundamentals.
   - [**Docker Mastery Video Course on Udemy**](https://bretfisher.com/dm) - (paid course) 8+ hours of Docker training on Docker cli, Compose, and Swarm
@@ -24,10 +24,14 @@ around the world - don’t hesitate to reach out us via the social links below!
   - [**Container Network Performance Tool**](https://github.com/solarwinds/containers/tree/master/cnpt) - Visibility of container network flows across Kubernetes and Docker Swarm nodes.
   - [**La plateforme Docker**](https://www.udemy.com/la-plateforme-docker/) - (cours payant) Des vidéos, des articles, des exercices: depuis les bases de Docker jusqu'au déploiement sur Swarm
   - [**Docker in Action**](https://www.amazon.com/Docker-Action-Jeff-Nickoloff/dp/1633430235) - (paid book) Paperback and e-book covers container fundamentals and image production and distribution mechanisms. Clustering and multi-host related content (last few chapters) will be revised in 2nd ed.
+  - [**Docker Prometheus Stack**](https://github.com/vegasbrianc/prometheus) - A docker-compose starter stack for monitoring with cAdvisor, Prometheus, Grafana, and Node-Exporter.
+  - [**Awesome Docker List**](https://github.com/veggiemonk/awesome-docker) - A curated list of Docker resources and projects
+
 
 ## Captains Blogs/Twitter
   - **Antonis Kalipetis** - [@akalipetis](https://twitter.com/akalipetis) - [Blog](https://www.akalipetis.com)
   - **Bret Fisher** - [@BretFisher](https://twitter.com/bretfisher) - [Blog](https://www.bretfisher.com) - [YouTube](https://www.youtube.com/c/BretFisherITPro) - [Facebook](https://www.facebook.com/bretfisher.devops)
+  - **Brian Christner** [@idomyowntricks](https://twitter.com/idomyowntricks) - [Blog](https://brianchristner.io)
   - **Gianluca Arbezzano** - [@gianarb](https://twitter.com/gianarb) - [Blog](https://gianarb.it)
   - **Jeff Nickoloff** - [@allingeek](https://twitter.com/allingeek) - [Blog](https://medium.com/@allingeek) - [Blog - On-Docker](https://medium.com/on-docker)
   - **John Lees-Miller** - [@jdleesmiller](https://twitter.com/jdleesmiller) - [Blog](http://jdlm.info/)
