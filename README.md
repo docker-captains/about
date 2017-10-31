@@ -26,6 +26,8 @@ around the world - don’t hesitate to reach out us via the social links below!
   - [**Docker in Action**](https://www.amazon.com/Docker-Action-Jeff-Nickoloff/dp/1633430235) - (paid book) Paperback and e-book covers container fundamentals and image production and distribution mechanisms. Clustering and multi-host related content (last few chapters) will be revised in 2nd ed.
   - [**Docker Prometheus Stack**](https://github.com/vegasbrianc/prometheus) - A docker-compose starter stack for monitoring with cAdvisor, Prometheus, Grafana, and Node-Exporter.
   - [**Awesome Docker List**](https://github.com/veggiemonk/awesome-docker) - A curated list of Docker resources and projects
+  - [**Using Docker**](http://shop.oreilly.com/product/0636920035671.do) - Book published by O'Reilly describing how to use Docker to develop, test and deploy software.
+  - [**Image Wolf**](https://github.com/ContainerSolutions/ImageWolf) - Tool that uses BitTorrent to rapidly deploy images onto clusters, increasing the speed at which updates can be rolled out.
 
 
 ## Captains Blogs/Twitter
@@ -46,3 +48,4 @@ around the world - don’t hesitate to reach out us via the social links below!
   - **Phil Estes** - [@estesp](https://twitter.com/estesp) - [Blog](https://integratedcode.us)
   - **Philipp Garbe** - [@pgarbe](https://twitter.com/pgarbe) - [Blog](http://garbe.io)
   - **Shawn Bower** - [@drizzt51](https://twitter.com/drizzt51) - [Blog](https://medium.com/@shawn.bower)
+  - **Adrian Mouat** - [@adrianmouat](https://twitter.com/adrianmouat) - [Blog](https://container-solutions.com/author/adrianm/)
