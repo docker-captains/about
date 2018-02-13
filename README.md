@@ -28,6 +28,7 @@ around the world - don’t hesitate to reach out us via the social links below!
   - [**Awesome Docker List**](https://github.com/veggiemonk/awesome-docker) - A curated list of Docker resources and projects
   - [**Using Docker**](http://shop.oreilly.com/product/0636920035671.do) - Book published by O'Reilly describing how to use Docker to develop, test and deploy software.
   - [**Image Wolf**](https://github.com/ContainerSolutions/ImageWolf) - Tool that uses BitTorrent to rapidly deploy images onto clusters, increasing the speed at which updates can be rolled out.
+  - [**Integrando Docker a su infraestructura y servicios**](https://www.udemy.com/integrando-docker-a-su-infraestrucutra-y-servicios) - (curso pagado) Aprenda, utilice y adapte Docker desde cero. Despliegue sus servicios de forma rápida y segura utilizando Docker.
 
 
 ## Captains Blogs/Twitter
@@ -41,6 +42,7 @@ around the world - don’t hesitate to reach out us via the social links below!
   - **Laura Frank** - [@rhein_wein](https://twitter.com/rhein_wein) - [Blog](https://blog.codeship.com/author/laurafrank/)
   - **Lee Calcote** - [@lcalcote](https://twitter.com/lcalcote) - [Blog](http://gingergeek.com) - [YouTube](https://www.youtube.com/c/leecalcote)
   - **Luc Juggery** - [@lucjuggery](https://twitter.com/lucjuggery) - [Blog](https://medium.com/lucjuggery)
+  - **Manuel Morejon** - [@morejon85](https://twitter.com/morejon85) - [Blog](http://mmorejon.github.io)
   - **Nicholas Dille** - [@nicholasdille](https://twitter.com/nicholasdille) - [Blog](http://dille.name)
   - **Nick Janetakis** - [@nickjanetakis](https://twitter.com/nickjanetakis) - [Blog](https://nickjanetakis.com) - [YouTube](https://www.youtube.com/c/nickjanetakis)
   - **Nils De Moor** - [@ndemoor](https://twitter.com/ndemoor) - [Blog](https://cntnr.io)
