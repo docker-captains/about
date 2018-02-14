@@ -29,6 +29,7 @@ around the world - don’t hesitate to reach out us via the social links below!
   - [**Using Docker**](http://shop.oreilly.com/product/0636920035671.do) - Book published by O'Reilly describing how to use Docker to develop, test and deploy software.
   - [**Image Wolf**](https://github.com/ContainerSolutions/ImageWolf) - Tool that uses BitTorrent to rapidly deploy images onto clusters, increasing the speed at which updates can be rolled out.
   - [**Integrando Docker a su infraestructura y servicios**](https://www.udemy.com/integrando-docker-a-su-infraestrucutra-y-servicios) - (curso pagado) Aprenda, utilice y adapte Docker desde cero. Despliegue sus servicios de forma rápida y segura utilizando Docker.
+  - [**Quoi d'neuf Docker**](https://www.youtube.com/c/quoideneufdocker) - (French spoken) Youtube channel focussing on Docker ecosystem 
 
 
 ## Captains Blogs/Twitter
@@ -51,3 +52,4 @@ around the world - don’t hesitate to reach out us via the social links below!
   - **Philipp Garbe** - [@pgarbe](https://twitter.com/pgarbe) - [Blog](http://garbe.io)
   - **Shawn Bower** - [@drizzt51](https://twitter.com/drizzt51) - [Blog](https://medium.com/@shawn.bower)
   - **Adrian Mouat** - [@adrianmouat](https://twitter.com/adrianmouat) - [Blog](https://container-solutions.com/author/adrianm/)
+  - **Nicolas De Loof** - [@ndeloof](https://twitter.com/ndeloof) - [Blog](http://blog.loof.fr)
