@@ -51,5 +51,6 @@ around the world - don’t hesitate to reach out us via the social links below!
   - **Phil Estes** - [@estesp](https://twitter.com/estesp) - [Blog](https://integratedcode.us)
   - **Philipp Garbe** - [@pgarbe](https://twitter.com/pgarbe) - [Blog](http://garbe.io)
   - **Shawn Bower** - [@drizzt51](https://twitter.com/drizzt51) - [Blog](https://medium.com/@shawn.bower)
+  - **Tim Tyler** - [@timotyler](https://twitter.com/timotyler) - [Blog](https://medium.com/@tim.tyler)
   - **Adrian Mouat** - [@adrianmouat](https://twitter.com/adrianmouat) - [Blog](https://container-solutions.com/author/adrianm/)
   - **Nicolas De Loof** - [@ndeloof](https://twitter.com/ndeloof) - [Blog](http://blog.loof.fr)
