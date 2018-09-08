@@ -30,6 +30,7 @@ around the world - don’t hesitate to reach out us via the social links below!
   - [**Image Wolf**](https://github.com/ContainerSolutions/ImageWolf) - Tool that uses BitTorrent to rapidly deploy images onto clusters, increasing the speed at which updates can be rolled out.
   - [**Integrando Docker a su infraestructura y servicios**](https://www.udemy.com/integrando-docker-a-su-infraestrucutra-y-servicios) - (curso pagado) Aprenda, utilice y adapte Docker desde cero. Despliegue sus servicios de forma rápida y segura utilizando Docker.
   - [**Quoi d'neuf Docker**](https://www.youtube.com/c/quoideneufdocker) - (French spoken) Youtube channel focussing on Docker ecosystem 
+  - [**The Enterprise Path to Service Mesh Architectures**](https://blog.gingergeek.com/2018/08/now-available-the-enterprise-path-to-service-mesh-architectures/) - Book published by O'Reilly helping answer common questions on service mesh architectures through the lens of a large enterprise.
 
 
 ## Captains Blogs/Twitter
@@ -41,7 +42,7 @@ around the world - don’t hesitate to reach out us via the social links below!
   - **John Lees-Miller** - [@jdleesmiller](https://twitter.com/jdleesmiller) - [Blog](http://jdlm.info/)
   - **John Zaccone** - [@JohnZaccone](https://twitter.com/JohnZaccone) - [Blog](http://johnzaccone.io)
   - **Laura Frank** - [@rhein_wein](https://twitter.com/rhein_wein) - [Blog](https://blog.codeship.com/author/laurafrank/)
-  - **Lee Calcote** - [@lcalcote](https://twitter.com/lcalcote) - [Blog](http://gingergeek.com) - [YouTube](https://www.youtube.com/c/leecalcote)
+  - **Lee Calcote** - [@lcalcote](https://twitter.com/lcalcote) - [Blog](https://gingergeek.com) - [YouTube](https://www.youtube.com/watch?v=Wcn4Ji__DCA&list=PLYjO73_1efChX9NuRaU7WocTbgrfvCoPE) - [LinkedIn](https://linkedin.com/in/leecalcote)
   - **Luc Juggery** - [@lucjuggery](https://twitter.com/lucjuggery) - [Blog](https://medium.com/lucjuggery)
   - **Manuel Morejon** - [@morejon85](https://twitter.com/morejon85) - [Blog](http://mmorejon.github.io)
   - **Nicholas Dille** - [@nicholasdille](https://twitter.com/nicholasdille) - [Blog](http://dille.name)
