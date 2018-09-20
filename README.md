@@ -33,7 +33,7 @@ around the world - don’t hesitate to reach out us via the social links below!
   - [**The Enterprise Path to Service Mesh Architectures**](https://blog.gingergeek.com/2018/08/now-available-the-enterprise-path-to-service-mesh-architectures/) - Book published by O'Reilly helping answer common questions on service mesh architectures through the lens of a large enterprise.
   - [**Docker Swarm Mastery Video Course on Udemy**](https://bretfisher.com/dockerswarmmastery) - (paid course) 6+ hours of Docker Swarm training
   - [**Windows Docker Machine**](https://github.com/StefanScherer/windows-docker-machine) - a Vagrant environment that let's you explore Windows Docker containers on your Mac, Linux or Windows computer
-
+  - [**Installing and Configuring Docker with Ansible**](https://github.com/nickjj/ansible-docker) - An open source Ansible role to install / configure Docker and Docker Compose on Ubuntu and Debian based systems.
 
 ## Captains Blogs/Twitter
   - **Antonis Kalipetis** - [@akalipetis](https://twitter.com/akalipetis) - [Blog](https://www.akalipetis.com)
