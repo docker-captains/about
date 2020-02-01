@@ -34,6 +34,8 @@ around the world - don’t hesitate to reach out us via the social links below!
   - [**Docker Swarm Mastery Video Course on Udemy**](https://bretfisher.com/dockerswarmmastery) - (paid course) 6+ hours of Docker Swarm training
   - [**Windows Docker Machine**](https://github.com/StefanScherer/windows-docker-machine) - a Vagrant environment that let's you explore Windows Docker containers on your Mac, Linux or Windows computer
   - [**Installing and Configuring Docker with Ansible**](https://github.com/nickjj/ansible-docker) - An open source Ansible role to install / configure Docker and Docker Compose on Ubuntu and Debian based systems.
+  - [**Istio: Up and Running**](https://layer5.io/books/istio-up-and-running) - Istio is one of the fastest growing solutions for connecting, managing, and securing microservices.
+  - [**Meshery**](https://layer5.io/meshery) - The multi-service mesh manager.
 
 ## Captains Blogs/Twitter
   - **Antonis Kalipetis** - [@akalipetis](https://twitter.com/akalipetis) - [Blog](https://www.akalipetis.com)
