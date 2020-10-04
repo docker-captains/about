@@ -36,6 +36,8 @@ around the world - don’t hesitate to reach out us via the social links below!
   - [**Installing and Configuring Docker with Ansible**](https://github.com/nickjj/ansible-docker) - An open source Ansible role to install / configure Docker and Docker Compose on Ubuntu and Debian based systems.
   - [**Istio: Up and Running**](https://layer5.io/books/istio-up-and-running) - Istio is one of the fastest growing solutions for connecting, managing, and securing microservices.
   - [**Meshery**](https://layer5.io/meshery) - The multi-service mesh manager.
+  - [**swarm-cronjob**](https://github.com/crazy-max/swarm-cronjob) - Create jobs on a time-based schedule on Docker Swarm.
+  - [**Diun**](https://github.com/crazy-max/diun) - Receive notifications when an image is updated on a Docker registry.
 
 ## Captains Blogs/Twitter
   - **Antonis Kalipetis** - [@akalipetis](https://twitter.com/akalipetis) - [Blog](https://www.akalipetis.com)
@@ -60,3 +62,4 @@ around the world - don’t hesitate to reach out us via the social links below!
   - **Tim Tyler** - [@timotyler](https://twitter.com/timotyler) - [Blog](https://medium.com/@tim.tyler)
   - **Adrian Mouat** - [@adrianmouat](https://twitter.com/adrianmouat) - [Blog](https://container-solutions.com/author/adrianm/)
   - **Nicolas De Loof** - [@ndeloof](https://twitter.com/ndeloof) - [Blog](http://blog.loof.fr)
+  - **Kevin Alvarez (aka CrazyMax)** - [@crazyws](https://twitter.com/crazyws) - [Blog](https://crazymax.dev/)
