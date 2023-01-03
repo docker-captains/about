@@ -38,6 +38,7 @@ around the world - don’t hesitate to reach out us via the social links below!
   - [**Meshery**](https://layer5.io/meshery) - The multi-service mesh manager.
   - [**swarm-cronjob**](https://github.com/crazy-max/swarm-cronjob) - Create jobs on a time-based schedule on Docker Swarm.
   - [**Diun**](https://github.com/crazy-max/diun) - Receive notifications when an image is updated on a Docker registry.
+  - [**Docker Community Extensions**](https://github.com/collabnix/docker-community-extensions) - A Curated List of Docker Community Extensions
 
 ## Captains Blogs/Twitter
   - **Antonis Kalipetis** - [@akalipetis](https://twitter.com/akalipetis) - [Blog](https://www.akalipetis.com)
