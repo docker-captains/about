@@ -65,3 +65,4 @@ around the world - don’t hesitate to reach out us via the social links below!
   - **Nicolas De Loof** - [@ndeloof](https://twitter.com/ndeloof) - [Blog](http://blog.loof.fr)
   - **Kevin Alvarez (aka CrazyMax)** - [@crazyws](https://twitter.com/crazyws) - [Blog](https://crazymax.dev/)
   - **Ajeet Rania** - [@ajeetsraina](https://twitter.com/ajeetsraina) - [Blog](https://collabnix.com/)
+  - Vladimir Mikhalev (aka Valdemar) - [@heyValdemar](https://twitter.com/heyValdemar) - [Blog](https://www.heyvaldemar.com) - [YouTube](https://www.youtube.com/channel/UCf85kQ0u1sYTTTyKVpxrlyQ) - [Facebook](https://www.facebook.com/heyValdemarFB) - [LinkedIn](https://www.linkedin.com/in/heyvaldemar/)
