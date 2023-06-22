@@ -69,3 +69,4 @@ around the world - don’t hesitate to reach out us via the social links below!
   - **Marcos Lilljedahl** - [@marcosnils](https://twitter.com/marcosnils) - [Blog](https://www.marcosnils.com) - [LinkedIn](https://www.linkedin.com/in/marcosnils/)
   - **Mohammad-Ali A'râbi** - [@MohammadAliEN](https://twitter.com/MohammadAliEN) - [Blog](https://aerabi.medium.com)
   - **Eric Smalling** - [@ericsmalling](https://twitter.com/ericsmalling) - [@smalls.xyz](https://bsky.app/profile/smalls.xyz) - [Blog](https://www.ericsmalling.com)
+  - **Rossana Suarez** - [@roxsross](https://twitter.com/roxsross) - [Linkedin](https://www.linkedin.com/in/roxsross) - [Blog](https://blog.295devops.com)
