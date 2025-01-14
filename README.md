@@ -63,6 +63,7 @@ around the world - don’t hesitate to reach out us via the social links below!
   - **Shawn Bower** - [@drizzt51](https://twitter.com/drizzt51) - [Blog](https://medium.com/@shawn.bower)
   - **Stefan Scherer** - [@stefscherer](https://twitter.com/stefscherer) - [Blog](https://stefanscherer.github.io)
   - **Tim Tyler** - [@timotyler](https://twitter.com/timotyler) - [Blog](https://medium.com/@tim.tyler)
+  - **Tobias Fenster** - [@tobiasfenster.io on Bluesky](https://bsky.app/profile/tobiasfenster.io) - [Blog](https://tobiasfenster.io) - [LinkedIn](https://www.linkedin.com/in/tobiasfenster/)
   - **Adrian Mouat** - [@adrianmouat](https://twitter.com/adrianmouat) - [Blog](https://container-solutions.com/author/adrianm/)
   - **Nicolas De Loof** - [@ndeloof](https://twitter.com/ndeloof) - [Blog](http://blog.loof.fr)
   - **Kevin Alvarez (aka CrazyMax)** - [@crazyws](https://twitter.com/crazyws) - [Blog](https://crazymax.dev/)
