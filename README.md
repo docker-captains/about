@@ -26,6 +26,7 @@ around the world - don’t hesitate to reach out us via the social links below!
   - [**Docker in Action**](https://www.amazon.com/Docker-Action-Jeff-Nickoloff/dp/1633430235) - (paid book) Paperback and e-book covers container fundamentals and image production and distribution mechanisms. Clustering and multi-host related content (last few chapters) will be revised in 2nd ed.
   - [**Docker Prometheus Stack**](https://github.com/vegasbrianc/prometheus) - A docker-compose starter stack for monitoring with cAdvisor, Prometheus, Grafana, and Node-Exporter.
   - [**Awesome Docker List**](https://github.com/veggiemonk/awesome-docker) - A curated list of Docker resources and projects
+  - [**DevOps**](https://github.com/Pradumnasaraf/DevOps) - An online open source learning platform to learn various concepts about the Docker ecosystem and DevOps tools.
   - [**Using Docker**](http://shop.oreilly.com/product/0636920035671.do) - Book published by O'Reilly describing how to use Docker to develop, test and deploy software.
   - [**Image Wolf**](https://github.com/ContainerSolutions/ImageWolf) - Tool that uses BitTorrent to rapidly deploy images onto clusters, increasing the speed at which updates can be rolled out.
   - [**Integrando Docker a su infraestructura y servicios**](https://www.udemy.com/integrando-docker-a-su-infraestrucutra-y-servicios) - (curso pagado) Aprenda, utilice y adapte Docker desde cero. Despliegue sus servicios de forma rápida y segura utilizando Docker.
@@ -73,3 +74,4 @@ around the world - don’t hesitate to reach out us via the social links below!
   - **Thorsten Hans** - [@ThorstenHans](https://x.com/ThorstenHans) - [Blog](https://www.thorsten-hans.com) - [LinkedIn](https://www.linkedin.com/in/ThorstenHans)
   - **Ulises Gascon** - [Github](https://github.com/ulisesgascon) - [Twitter](https://www.twitter.com/kom_256/) - [Blog](https://blog.ulisesgascon.com) - [YouTube](https://www.youtube.com/channel/UC87WsLcLxxgV9ZJjoWf1pQw/) - [LinkedIn](https://www.linkedin.com/in/ulisesgascon/)
   - **Igor Aleksandrov** [@igor_alexandrov](https://x.com/igor_alexandrov) - [Blog](https://igor.works) – [LinkedIn](https://www.linkedin.com/in/igor-aleksandrov/)
+  - **Pradumna Saraf** [@pradumna_saraf](https://x.com/pradumna_saraf) - [Blog](https://blog.pradumnasaraf.dev) – [LinkedIn](https://www.linkedin.com/in/pradumnasaraf/) - [YouTube](https://www.youtube.com/@pradumnasaraf)
