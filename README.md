@@ -26,10 +26,11 @@ around the world - don’t hesitate to reach out us via the social links below!
   - [**Docker in Action**](https://www.amazon.com/Docker-Action-Jeff-Nickoloff/dp/1633430235) - (paid book) Paperback and e-book covers container fundamentals and image production and distribution mechanisms. Clustering and multi-host related content (last few chapters) will be revised in 2nd ed.
   - [**Docker Prometheus Stack**](https://github.com/vegasbrianc/prometheus) - A docker-compose starter stack for monitoring with cAdvisor, Prometheus, Grafana, and Node-Exporter.
   - [**Awesome Docker List**](https://github.com/veggiemonk/awesome-docker) - A curated list of Docker resources and projects
+  - [**DevOps**](https://github.com/Pradumnasaraf/DevOps) - An online open source learning platform to learn various concepts about the Docker ecosystem and DevOps tools.
   - [**Using Docker**](http://shop.oreilly.com/product/0636920035671.do) - Book published by O'Reilly describing how to use Docker to develop, test and deploy software.
   - [**Image Wolf**](https://github.com/ContainerSolutions/ImageWolf) - Tool that uses BitTorrent to rapidly deploy images onto clusters, increasing the speed at which updates can be rolled out.
   - [**Integrando Docker a su infraestructura y servicios**](https://www.udemy.com/integrando-docker-a-su-infraestrucutra-y-servicios) - (curso pagado) Aprenda, utilice y adapte Docker desde cero. Despliegue sus servicios de forma rápida y segura utilizando Docker.
-  - [**Quoi d'neuf Docker**](https://www.youtube.com/c/quoideneufdocker) - (French spoken) Youtube channel focussing on Docker ecosystem 
+  - [**Quoi d'neuf Docker**](https://www.youtube.com/c/quoideneufdocker) - (French spoken) Youtube channel focussing on Docker ecosystem
   - [**The Enterprise Path to Service Mesh Architectures**](https://blog.gingergeek.com/2018/08/now-available-the-enterprise-path-to-service-mesh-architectures/) - Book published by O'Reilly helping answer common questions on service mesh architectures through the lens of a large enterprise.
   - [**Docker Swarm Mastery Video Course on Udemy**](https://bretfisher.com/dockerswarmmastery) - (paid course) 6+ hours of Docker Swarm training
   - [**Windows Docker Machine**](https://github.com/StefanScherer/windows-docker-machine) - a Vagrant environment that let's you explore Windows Docker containers on your Mac, Linux or Windows computer
@@ -39,6 +40,7 @@ around the world - don’t hesitate to reach out us via the social links below!
   - [**swarm-cronjob**](https://github.com/crazy-max/swarm-cronjob) - Create jobs on a time-based schedule on Docker Swarm.
   - [**Diun**](https://github.com/crazy-max/diun) - Receive notifications when an image is updated on a Docker registry.
   - [**Docker Community Extensions**](https://github.com/collabnix/docker-community-extensions) - A Curated List of Docker Community Extensions
+  - [**uniget**](https://uniget.dev) - An installer and updater for tools from the container/security/DevOps/... ecosystems using container images for distribution
   - [**Docker Seguro**](https://dockerseguro.ulisesgascon.com/) - Free Spanish Ebook published by Ulises Gascon describing how to use Docker in production environments. 
 
 ## Captains Blogs/Twitter
@@ -62,6 +64,7 @@ around the world - don’t hesitate to reach out us via the social links below!
   - **Shawn Bower** - [@drizzt51](https://twitter.com/drizzt51) - [Blog](https://medium.com/@shawn.bower)
   - **Stefan Scherer** - [@stefscherer](https://twitter.com/stefscherer) - [Blog](https://stefanscherer.github.io)
   - **Tim Tyler** - [@timotyler](https://twitter.com/timotyler) - [Blog](https://medium.com/@tim.tyler)
+  - **Tobias Fenster** - [@tobiasfenster.io on Bluesky](https://bsky.app/profile/tobiasfenster.io) - [Blog](https://tobiasfenster.io) - [LinkedIn](https://www.linkedin.com/in/tobiasfenster/)
   - **Adrian Mouat** - [@adrianmouat](https://twitter.com/adrianmouat) - [Blog](https://container-solutions.com/author/adrianm/)
   - **Nicolas De Loof** - [@ndeloof](https://twitter.com/ndeloof) - [Blog](http://blog.loof.fr)
   - **Kevin Alvarez (aka CrazyMax)** - [@crazyws](https://twitter.com/crazyws) - [Blog](https://crazymax.dev/)
@@ -69,4 +72,9 @@ around the world - don’t hesitate to reach out us via the social links below!
   - **Vladimir Mikhalev (aka Valdemar)** - [@heyValdemar](https://twitter.com/heyValdemar) - [Blog](https://www.heyvaldemar.com) - [YouTube](https://www.youtube.com/channel/UCf85kQ0u1sYTTTyKVpxrlyQ) - [Facebook](https://www.facebook.com/heyValdemarFB) - [LinkedIn](https://www.linkedin.com/in/heyvaldemar/)
   - **Marcos Lilljedahl** - [@marcosnils](https://twitter.com/marcosnils) - [Blog](https://www.marcosnils.com) - [LinkedIn](https://www.linkedin.com/in/marcosnils/)
   - **Mohammad-Ali A'râbi** - [@MohammadAliEN](https://twitter.com/MohammadAliEN) - [Blog](https://aerabi.medium.com)
-  
+  - **Eric Smalling** - [@ericsmalling](https://twitter.com/ericsmalling) - [@smalls.xyz](https://bsky.app/profile/smalls.xyz) - [Blog](https://www.ericsmalling.com)
+  - **Thorsten Hans** - [@ThorstenHans](https://x.com/ThorstenHans) - [Blog](https://www.thorsten-hans.com) - [LinkedIn](https://www.linkedin.com/in/ThorstenHans)
+  - **Ulises Gascon** - [Github](https://github.com/ulisesgascon) - [Twitter](https://www.twitter.com/kom_256/) - [Blog](https://blog.ulisesgascon.com) - [YouTube](https://www.youtube.com/channel/UC87WsLcLxxgV9ZJjoWf1pQw/) - [LinkedIn](https://www.linkedin.com/in/ulisesgascon/)
+  - **Igor Aleksandrov** [@igor_alexandrov](https://x.com/igor_alexandrov) - [Blog](https://igor.works) – [LinkedIn](https://www.linkedin.com/in/igor-aleksandrov/)
+  - **Pradumna Saraf** [@pradumna_saraf](https://x.com/pradumna_saraf) - [Blog](https://blog.pradumnasaraf.dev) – [LinkedIn](https://www.linkedin.com/in/pradumnasaraf/) - [YouTube](https://www.youtube.com/@pradumnasaraf)
+  - **Julian König** [@jkoenig.dev](https://bsky.app/profile/jkoenig.dev) - [LinkedIn](https://www.linkedin.com/in/jkoenig134/)
