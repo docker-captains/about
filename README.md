@@ -77,3 +77,4 @@ around the world - don’t hesitate to reach out us via the social links below!
   - **Igor Aleksandrov** [@igor_alexandrov](https://x.com/igor_alexandrov) - [Blog](https://igor.works) – [LinkedIn](https://www.linkedin.com/in/igor-aleksandrov/)
   - **Pradumna Saraf** [@pradumna_saraf](https://x.com/pradumna_saraf) - [Blog](https://blog.pradumnasaraf.dev) – [LinkedIn](https://www.linkedin.com/in/pradumnasaraf/) - [YouTube](https://www.youtube.com/@pradumnasaraf)
   - **David Cardozo** [@_davidcardozo](https://x.com/_davidcardozo) - [Blog](https://www.davidcardozo.com/) – [LinkedIn](https://www.linkedin.com/in/davidcardozo/) - [YouTube](https://www.youtube.com/@davidnet) - [Github](https://github.com/Davidnet)
+  - **Julian König** [@jkoenig.dev](https://bsky.app/profile/jkoenig.dev) - [LinkedIn](https://www.linkedin.com/in/jkoenig134/)
