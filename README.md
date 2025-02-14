@@ -78,3 +78,4 @@ around the world - don’t hesitate to reach out us via the social links below!
   - **Pradumna Saraf** [@pradumna_saraf](https://x.com/pradumna_saraf) - [Blog](https://blog.pradumnasaraf.dev) – [LinkedIn](https://www.linkedin.com/in/pradumnasaraf/) - [YouTube](https://www.youtube.com/@pradumnasaraf)
   - **David Cardozo** [@_davidcardozo](https://x.com/_davidcardozo) - [Blog](https://www.davidcardozo.com/) – [LinkedIn](https://www.linkedin.com/in/davidcardozo/) - [YouTube](https://www.youtube.com/@davidnet) - [Github](https://github.com/Davidnet)
   - **Julian König** [@jkoenig.dev](https://bsky.app/profile/jkoenig.dev) - [LinkedIn](https://www.linkedin.com/in/jkoenig134/)
+  - **Prasad Bhalerao** - [Github](https://github.com/prasad89) - [LinkedIn](https://www.linkedin.com/in/prasad89/) - [Blog](https://dev.to/prasadb89) - [Twitter](https://www.twitter.com/prasad_8nine)
