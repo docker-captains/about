@@ -54,6 +54,7 @@ around the world - don’t hesitate to reach out us via the social links below!
   - **Lee Calcote** - [@lcalcote](https://twitter.com/lcalcote) - [Blog](https://gingergeek.com) - [YouTube](https://www.youtube.com/watch?v=Wcn4Ji__DCA&list=PLYjO73_1efChX9NuRaU7WocTbgrfvCoPE) - [LinkedIn](https://linkedin.com/in/leecalcote)
   - **Luc Juggery** - [@lucjuggery](https://twitter.com/lucjuggery) - [Blog](https://medium.com/lucjuggery)
   - **Manuel Morejon** - [@morejon85](https://twitter.com/morejon85) - [Blog](http://mmorejon.github.io)
+  - **Nasiullha Chaudhari** - [@Nasi_007](https://x.com/Nasi_007) - [LinkedIn](https://www.linkedin.com/in/nasiullha-chaudhari) - [YouTube](https://www.youtube.com/@cloudchamp)
   - **Nicholas Dille** - [@nicholasdille](https://twitter.com/nicholasdille) - [Blog](http://dille.name)
   - **Nick Janetakis** - [@nickjanetakis](https://twitter.com/nickjanetakis) - [Blog](https://nickjanetakis.com) - [YouTube](https://www.youtube.com/c/nickjanetakis)
   - **Nils De Moor** - [@ndemoor](https://twitter.com/ndemoor) - [Blog](https://cntnr.io)
