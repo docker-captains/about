@@ -41,6 +41,7 @@ around the world - don’t hesitate to reach out us via the social links below!
   - [**Diun**](https://github.com/crazy-max/diun) - Receive notifications when an image is updated on a Docker registry.
   - [**Docker Community Extensions**](https://github.com/collabnix/docker-community-extensions) - A Curated List of Docker Community Extensions
   - [**uniget**](https://uniget.dev) - An installer and updater for tools from the container/security/DevOps/... ecosystems using container images for distribution
+  - [**Docker Seguro**](https://dockerseguro.ulisesgascon.com/) - Free Spanish Ebook published by Ulises Gascon describing how to use Docker in production environments. 
 
 ## Captains Blogs/Twitter
   - **Antonis Kalipetis** - [@akalipetis](https://twitter.com/akalipetis) - [Blog](https://www.akalipetis.com)
